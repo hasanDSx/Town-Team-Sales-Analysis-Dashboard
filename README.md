@@ -2,12 +2,17 @@
 This analysis provides a comprehensive view of the performance of "Town Team" for the year "2024"
 
 The dashboard contains:
+
  📌 Total sales & total quantity.
  
  📌 Number of products sold by category.
+ 
  📌 Total sales per month.
+ 
  📌 Total sales by store
+ 
  📌 Total sales by products.
+ 
 
 Results:
 1. Total sales: 254.69k & Total Quantity: 2469
