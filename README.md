@@ -3,6 +3,7 @@ This analysis provides a comprehensive view of the performance of "Town Team" fo
 
 The dashboard contains:
  📌 Total sales & total quantity.
+ 
  📌 Number of products sold by category.
  📌 Total sales per month.
  📌 Total sales by store
