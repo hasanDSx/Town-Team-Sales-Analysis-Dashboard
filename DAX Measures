@@ -1,0 +1,8 @@
+1. Total Order:
+Total Orders = COUNTROWS('DataSet')
+
+2. Total Quantity:
+Total Quantity = SUM('DataSet'[Quantity])
+
+3. Total Sales:
+Total Sales = SUM('DataSet'[Total_Sales])
