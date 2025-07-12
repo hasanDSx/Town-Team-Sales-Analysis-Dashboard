@@ -1,6 +1,6 @@
-# Town-Team-Sales-Dashboard
-
-📌 Total sales & total quantity.
+KPIs
+--
+ 📌 Total sales & total quantity.
  
  📌 Number of products sold by category.
  
