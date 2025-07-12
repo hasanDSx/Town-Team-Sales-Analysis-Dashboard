@@ -12,6 +12,7 @@
  
 
 Results:
+--
 
 1. Total sales:
 254.69k & Total Quantity: 2469
